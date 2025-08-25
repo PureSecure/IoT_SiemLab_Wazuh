@@ -1,9 +1,9 @@
 
 # IoT Security Monitoring with SIEM (Wazuh + ELK)
 
-**Author:** Bruce  
-**Status:** In progress  
-**Goal:** Deploy a cloud-based SIEM lab to monitor household IoT devices and detect anomalies (unauthorized logins, unusual outbound traffic, bandwidth spikes, off-hour activity).
+Author: Clarence  
+Status: In progress  
+Goal: Deploy a cloud-based SIEM lab to monitor household IoT devices and detect anomalies (unauthorized logins, unusual outbound traffic, bandwidth spikes, off-hour activity).
 
 ---
 
@@ -38,7 +38,7 @@ This project demonstrates how to deploy and configure an open-source SIEM (Wazuh
 *(Add screenshots to the `/screenshots` folder and link them here.)*
 
 ## Repository Structure
-```text
+```
 /configs       # SIEM configuration files (e.g., custom Wazuh rules)
 /scripts       # Python/Bash traffic simulation scripts
 /screenshots   # Dashboard images and alert examples
@@ -62,8 +62,8 @@ LICENSE
 ---
 
 ## Author & Contact
-- **Email:** cybersec.clarence.m@gmail.com  
-- **LinkedIn:** (add your profile URL)  
-- **GitHub:** (add your profile URL)
+- Email: cybersec.clarence.m@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/puresecure/
+- GitHub: https://github.com/PureSecure
 
 > If you find this useful, feel free to star the repo!
