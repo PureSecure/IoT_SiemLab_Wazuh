@@ -8,7 +8,7 @@ Goal: Deploy a cloud-based SIEM lab to monitor household IoT devices and detect 
 ---
 
 ## Overview
-This project demonstrates how to deploy and configure an open-source SIEM (Wazuh on the Elastic Stack) to monitor simulated IoT devices. It includes detection rules, dashboards, and documentation suitable for a professional portfolio.
+This project demonstrates how to deploy and configure an open-source SIEM (Wazuh on the Elastic Stack) to monitor simulated IoT devices. 
 
 ## Lab Setup
 - **Cloud Platform:** AWS Free Tier (EC2), Azure, or GCP
